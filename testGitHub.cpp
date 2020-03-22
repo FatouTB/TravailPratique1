@@ -8,5 +8,6 @@ int main()
     std::cout << "Comment ca va aujourd'hui?\n";
     std::cout << "Test d'ajout - KM\n";
     std::cout << "Test 2 d'ajout - KM\n";
+    std::cout << "Test 3 - KM\n";
 }
 
